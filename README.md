@@ -31,35 +31,6 @@ This advanced PHP-based webshell allows you to execute system commands and uploa
 ```bash
 cd Simple-WebShell
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Start PHP server:
 php -S localhost:6060
 
